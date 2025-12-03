@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+# Adicione suas libs de LTXVideo/SDXL aqui
+# torch
+# comfyui
+# diffusers
